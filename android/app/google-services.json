@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "75869691893",
+    "project_id": "flut-68ef9",
+    "storage_bucket": "flut-68ef9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75869691893:android:22b7af683f63f2710e0abc",
+        "android_client_info": {
+          "package_name": "com.example.sign"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJRz3vnonrPWGWDsiGteI7wlVYpCtLyrs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
